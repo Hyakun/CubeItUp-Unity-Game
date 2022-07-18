@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 67a9ba9995245e44597d16d7bedb6262
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joystick: {instanceID: 0}
+  - effectPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
