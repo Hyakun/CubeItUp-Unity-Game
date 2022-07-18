@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - END
+  - Platform
+  - Background
+  - Lava
+  - ENDT
+  - ENDSTART
+  - FinishLine
+  - Music
+  - Boss
+  - Weapon
+  - Shuriken
+  - ENM
+  - CNV
+  - joy
+  - dash
+  - jump
+  - user
+  - pass
+  - fail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - NoPost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2585670279
+    locked: 0
+  - name: Ground
+    uniqueID: 280723729
+    locked: 0
+  - name: Player
+    uniqueID: 2546718873
+    locked: 0
+  - name: Effect
+    uniqueID: 378228873
+    locked: 0
+  - name: UI
+    uniqueID: 2375648343
+    locked: 0

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 611dcaeed623e6e488aedcf203b18997
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: cb3f4997117aa8c4b82e71755e3ed09b
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ed57fa1e8b87e224cacbfffc0957db52
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 9b9c3584986589548890aad3652d1436
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 2a6f44e74819232478ec92b9a15c2d50
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 5476469bd7c2f0c4f84a0b5208788a03
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: f9129708448a3ed449b10b3c1b792495
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: 8dd0c1fd3acd22048b3d402e7ca325ab
+  - enabled: 1
+    path: Assets/Scenes/EndLess.unity
+    guid: 19cc325e826314343ab5c41f6ee67a98
+  - enabled: 1
+    path: Assets/Scenes/LoginRegister.unity
+    guid: 738840122ca799947b70009c276739f0
+  - enabled: 1
+    path: Assets/Scenes/ScoareSave.unity
+    guid: b9f3b43fac0fb064fbeb7c558d4a4eab
+  - enabled: 1
+    path: Assets/Scenes/QRound.unity
+    guid: 35fc0b1a2ea7ba74697f5e87a2bae5d0
+  m_configObjects: {}
