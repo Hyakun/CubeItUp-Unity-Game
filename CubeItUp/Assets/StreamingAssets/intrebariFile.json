@@ -1,0 +1,46 @@
+{
+    "Intrebari": [
+        {
+            "intrebare": "Care este capitala Romaniei?",
+            "raspuns1": "Galati",
+            "raspuns2": "Timisoara",
+            "raspuns3": "Cluj",
+            "raspunsC": "Bucuresti"
+        },
+        {
+            "intrebare": "Care este cel mai inalt varf muntos din Romania?",
+            "raspuns1": "Vf. Pietrosu Rodnei",
+            "raspuns2": "Vf. Omu",
+            "raspuns3": "Vf. Negoiu",
+            "raspunsC": "Vf. Moldoveanu"
+        },
+        {
+            "intrebare": "In ce an a inceput primul razboi modnial?",
+            "raspuns1": "1790",
+            "raspuns2": "1910",
+            "raspuns3": "2000",
+            "raspunsC": "1914"
+        },
+        {
+            "intrebare": "In ce an s-a nascut Hittler?",
+            "raspuns1": "1780",
+            "raspuns2": "1920",
+            "raspuns3": "1615",
+            "raspunsC": "1889"
+        },
+        {
+            "intrebare": "Cine a scris Moara cu noroc?",
+            "raspuns1": "Mihai Eminescu",
+            "raspuns2": "George Bacovia",
+            "raspuns3": "I. L. Caragiale",
+            "raspunsC": "Ioan Slavici"
+        },
+        {
+            "intrebare": "Care este cea mai mica planeta din sistemul nostru solar?",
+            "raspuns1": "Pamant",
+            "raspuns2": "Venus",
+            "raspuns3": "Marte",
+            "raspunsC": "Mercur"
+        }
+    ]
+}
